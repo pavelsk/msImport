@@ -3,10 +3,6 @@
 $chunks = array();
 
 $tmp = array(
-	'tpl.msImport.item' => array(
-		'file' => 'item',
-		'description' => '',
-	),
 );
 
 // Save chunks for setup options

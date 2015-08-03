@@ -2,7 +2,7 @@
 include_once 'setting.inc.php';
 
 $_lang['msimport'] = 'msImport';
-$_lang['msimport_menu_desc'] = 'Пример расширения для разработки.';
+$_lang['msimport_menu_desc'] = 'Импорт товаров в minishop2.';
 $_lang['msimport_intro_msg'] = 'Вы можете выделять сразу несколько предметов при помощи Shift или Ctrl.';
 
 $_lang['msimport_items'] = 'Предметы';

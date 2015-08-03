@@ -3,10 +3,7 @@
 $snippets = array();
 
 $tmp = array(
-	'msImport' => array(
-		'file' => 'msimport',
-		'description' => '',
-	),
+	'msImport' => array(),
 );
 
 foreach ($tmp as $k => $v) {
